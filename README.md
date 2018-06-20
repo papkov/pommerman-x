@@ -1,6 +1,6 @@
 # Pommerman X
 
-![](https://imgur.com/a/btEjMfH)
+![](https://media.giphy.com/media/9xySe58jgkoarfDWgO/giphy.gif)
 
 ## Introduction
 
@@ -63,11 +63,11 @@ We managed to achieve Simple Agent (the baseline heuristics) performance on aver
 
 Average comparison:
 
-![](https://imgur.com/a/btEjMfH)
+![](https://i.imgur.com/NCg3fO3.png)
 
 In-corner comparison:
 
-![](https://imgur.com/a/btEjMfH)
+![](https://i.imgur.com/SO3iAV0.png)
 
 The best imitation one is AlphaGo-inspired architecture, the best RL is an Atari-inspired model 
 (however AlphaGo performed better in the top-left corner).
