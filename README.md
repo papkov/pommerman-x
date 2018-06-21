@@ -77,7 +77,7 @@ We have just began to solve this issue.
 ## Links
 
 * [project presentation](https://docs.google.com/presentation/d/10MCSWuFEfYOpVyUePKt8Rmv49Q33xiP-W3BbjTrFgN8/edit?usp=sharing)
-* [project report]
+* [project report](report.pdf)
 
 ## Contributors
 
